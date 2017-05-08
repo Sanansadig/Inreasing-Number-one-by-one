@@ -1,0 +1,6 @@
+D:\C# files\ArtanReqem\ArtanReqem\bin\Debug\ArtanReqem.exe.config
+D:\C# files\ArtanReqem\ArtanReqem\bin\Debug\ArtanReqem.exe
+D:\C# files\ArtanReqem\ArtanReqem\bin\Debug\ArtanReqem.pdb
+D:\C# files\ArtanReqem\ArtanReqem\obj\Debug\ArtanReqem.csprojResolveAssemblyReference.cache
+D:\C# files\ArtanReqem\ArtanReqem\obj\Debug\ArtanReqem.exe
+D:\C# files\ArtanReqem\ArtanReqem\obj\Debug\ArtanReqem.pdb
